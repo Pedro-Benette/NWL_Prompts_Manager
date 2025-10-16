@@ -6,24 +6,24 @@ Este projeto foi construído por Pedro-Benette durante a imersão Next Level Wee
 ✨ Funcionalidades
 O Prompt Manager permite ao usuário:
 
-Cadastro Simples: Adicione novos prompts de forma rápida, com título e conteúdo.
+- Cadastro Simples: Adicione novos prompts de forma rápida, com título e conteúdo.
 
-Edição e Exclusão: Gerencie os prompts existentes, mantendo sua biblioteca atualizada.
+- Edição e Exclusão: Gerencie os prompts existentes, mantendo sua biblioteca atualizada.
 
-Busca Instantânea: Utilize a função de busca para encontrar prompts específicos por palavra-chave ou título.
+- Busca Instantânea: Utilize a função de busca para encontrar prompts específicos por palavra-chave ou título.
 
-Armazenamento Local: Os prompts são salvos diretamente no navegador (LocalStorage), garantindo que suas informações persistam entre as sessões.
+- Armazenamento Local: Os prompts são salvos diretamente no navegador (LocalStorage), garantindo que suas informações persistam entre as sessões.
 
-Design Responsivo: Interface otimizada para uso em dispositivos móveis e desktops.
+- Design Responsivo: Interface otimizada para uso em dispositivos móveis e desktops.
 
 🚀 Tecnologias Utilizadas
 Este projeto é uma aplicação puramente Front-End, focada nos fundamentos da web:
 
-HTML: Estrutura semântica do projeto.
+- HTML: Estrutura semântica do projeto.
 
-CSS: Estilização, layout e responsividade.
+- CSS: Estilização, layout e responsividade.
 
-JavaScript: Lógica de manipulação do DOM e gestão de dados no LocalStorage.
+- JavaScript: Lógica de manipulação do DOM e gestão de dados no LocalStorage.
 
 🔗 Demonstração
 Acesse a aplicação em funcionamento através do GitHub Pages:
